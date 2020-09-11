@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'socialdb',
         'USER' : 'postgres',
-        'PASSWORD' : 'b@20016633',
+        'PASSWORD' : 'your',
         'HOST' : 'localhost',
         'PORT' : '5432',
     }
